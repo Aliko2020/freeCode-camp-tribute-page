@@ -41,22 +41,23 @@ p{
 caption{
     background-color: #333333;
 }
-@media screen and (min-width: 1800px) {
+ @media screen and (min-width: 920px) {
     #tribute-info{
-        padding: 0 550px;
+        padding: 0 200px;
     } 
   }
-  @media screen and (min-width: 1950px) {
+ @media screen and (min-width: 1400px) {
     #tribute-info{
-        padding: 0 560px;
+        padding: 0 400px;
     } 
   }
+
 #headline{
     text-align: center;
    
 }
 #tribute-info{
-    margin: 0 120px;
+    margin: 0 20px;
 }
 li{
     margin: 15px 0;
